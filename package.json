@@ -1,0 +1,24 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "build-css" : "./bin/build-css",
+    "watch-css": "./bin/watch-css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroserrrano/personalWebsite.git"
+  },
+  "author": "Alvaro Serrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaroserrrano/personalWebsite/issues"
+  },
+  "homepage": "https://github.com/alvaroserrrano/personalWebsite#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "nodemon": "^1.18.10"
+  }
+}
